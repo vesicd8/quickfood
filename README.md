@@ -1,4 +1,4 @@
-# Quick Food - Laravel 8/JavaScript
+# Quick Food - Laravel 8
 
 ## Menu
 
