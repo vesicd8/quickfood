@@ -1,4 +1,4 @@
-# Quick Food | Online food delivery- Laravel 8
+# Quick Food | Online food delivery - Laravel 8
 
 ## Menu
 
